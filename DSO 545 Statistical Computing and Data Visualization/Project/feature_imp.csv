@@ -1,0 +1,14 @@
+﻿feature,importance
+Gender,0.023146915
+YearsSinceLastPromotion,0.052508243
+YearsWithCurrManager,0.054965486
+NumCompaniesWorked,0.059640911
+holistic_satisfaction,0.065692999
+YearsAtCompany,0.065974434
+JobRole,0.066378843
+OverTime,0.077454549
+PercentSalaryHike,0.08226222
+TotalWorkingYears,0.091305
+DistanceFromHome,0.10057097
+Age,0.116141962
+MonthlyIncome,0.143957468
