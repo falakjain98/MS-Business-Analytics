@@ -4,6 +4,12 @@
 
 [Final Video Presentation](https://drive.google.com/file/d/1ld8Rgv2GVvJ9a9CQn_0fx6e61D8Kb1Mm/view?usp=sharing)
 
+Data Source: [HR Attrition data based on IBM attrition](https://www.kaggle.com/datasets/singhnproud77/hr-attrition-dataset?resource=download)
+
+For the full code related to our dashboard and EDA process:
+* Dashboard: “dashboard.ipynb”
+* EDA/Random Forest Classifier: “DSO 545 project EDA and RF model.ipynb”
+
 Contributors:
 * Antonius Raharja
 * Pranay Mallipudi
