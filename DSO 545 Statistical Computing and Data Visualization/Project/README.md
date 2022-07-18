@@ -9,4 +9,4 @@ Contributors:
 * Pranay Mallipudi
 * Shailendra Narwaria
 * Vania Ibrahim
-* Falak Jain
+* [Falak Jain](https://www.github.com/falakjain98)
